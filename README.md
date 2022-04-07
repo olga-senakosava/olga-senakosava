@@ -1,4 +1,17 @@
-### Loading ...
+### Loading <span id="one">.</span><span id="two">.</span><span id="three">.</span>
+
+<script>
+ 
+ let one = document.getElementById('one');
+ let two = document.getElementById('two');
+ let three = document.getElementById('three');
+ 
+ one.setTimeout((one.hidden = !one.hidden), 1000);
+ two.setTimeout((two.hidden = !two.hidden), 2000);
+ three.setTimeout((three.hidden = !three.hidden), 3000);
+
+ 
+ </script>
 
 <!--
 
