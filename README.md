@@ -1,6 +1,6 @@
 ### Loading <span id="one">.</span><span id="two">.</span><span id="three">.</span>
 
-<script>
+<!--<script>
  
  let one = document.getElementById('one');
  let two = document.getElementById('two');
@@ -11,7 +11,7 @@
  three.setTimeout((three.hidden = !three.hidden), 3000);
 
  
- </script>
+ </script> -->
 
 <!--
 
